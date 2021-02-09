@@ -1,2 +1,2 @@
 Basic:
-Source code 1 game for QBasic.
+Source code for a game written in QBasic.
