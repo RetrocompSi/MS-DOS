@@ -5,3 +5,5 @@ https://archive.org/details/GorillasQbasic<br />
 
 Wikipedia:<br />
 https://en.wikipedia.org/wiki/Gorillas_(video_game)
+
+![alt text](https://github.com/RetrocompSi/MS-DOS/tree/main/Projects/Basic/GORILLA.BAS/Gorilla-bas-logo.png)
