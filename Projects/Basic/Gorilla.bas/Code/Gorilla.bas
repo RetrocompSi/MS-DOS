@@ -1,3 +1,4 @@
+'
 '                         Q B a s i c   G o r i l l a s
 '
 '                   Copyright (C) Microsoft Corporation 1990
