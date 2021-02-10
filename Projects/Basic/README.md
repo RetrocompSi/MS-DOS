@@ -1,1 +1,2 @@
-GORILLA.BAS - A turn-based artillery game written in QBasic by IBM corporation and published in 1991.
+Gorilla.bas - A turn-based artillery game written in QBasic by IBM corporation and published in 1991.
+Nibbles.bas - A simple variant of the snake video game written in QBasic.
